@@ -24,3 +24,4 @@ D:\Workspace\WPF\FriendStorage\FriendStorage.UI\obj\Debug\net8.0-windows10.0.177
 D:\Workspace\WPF\FriendStorage\FriendStorage.UI\obj\Debug\net8.0-windows10.0.17763.0\FriendStorage.UI.pdb
 D:\Workspace\WPF\FriendStorage\FriendStorage.UI\obj\Debug\net8.0-windows10.0.17763.0\FriendStorage.UI.genruntimeconfig.cache
 D:\Workspace\WPF\FriendStorage\FriendStorage.UI\obj\Debug\net8.0-windows10.0.17763.0\ref\FriendStorage.UI.dll
+D:\Workspace\WPF\FriendStorage\FriendStorage.UI\obj\Debug\net8.0-windows10.0.17763.0\FriendStorage.UI.sourcelink.json

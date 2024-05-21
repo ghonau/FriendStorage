@@ -50,6 +50,14 @@ namespace FriendStorage.UI.Wrapper
             }
         }
 
+        public string FirstNameOriginalValue
+        {
+            get
+            {
+                return GetOriginalValue<string>(nameof(FirstName)); 
+            }
+        }
+
         public string LastName
         {
             get

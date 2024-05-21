@@ -107,3 +107,4 @@ D:\Workspace\WPF\FriendStorage\FriendStorage.UITest\obj\Debug\net8.0-windows10.0
 D:\Workspace\WPF\FriendStorage\FriendStorage.UITest\obj\Debug\net8.0-windows10.0.17763.0\FriendStorage.UITest.pdb
 D:\Workspace\WPF\FriendStorage\FriendStorage.UITest\obj\Debug\net8.0-windows10.0.17763.0\FriendStorage.UITest.genruntimeconfig.cache
 D:\Workspace\WPF\FriendStorage\FriendStorage.UITest\obj\Debug\net8.0-windows10.0.17763.0\ref\FriendStorage.UITest.dll
+D:\Workspace\WPF\FriendStorage\FriendStorage.UITest\obj\Debug\net8.0-windows10.0.17763.0\FriendStorage.UITest.sourcelink.json
