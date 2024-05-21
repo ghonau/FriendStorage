@@ -1,0 +1,11 @@
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\bin\Debug\net8.0\FriendStorage.Model.deps.json
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\bin\Debug\net8.0\FriendStorage.Model.dll
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\bin\Debug\net8.0\FriendStorage.Model.pdb
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\obj\Debug\net8.0\FriendStorage.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\obj\Debug\net8.0\FriendStorage.Model.AssemblyInfoInputs.cache
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\obj\Debug\net8.0\FriendStorage.Model.AssemblyInfo.cs
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\obj\Debug\net8.0\FriendStorage.Model.csproj.CoreCompileInputs.cache
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\obj\Debug\net8.0\FriendStorage.Model.dll
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\obj\Debug\net8.0\refint\FriendStorage.Model.dll
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\obj\Debug\net8.0\FriendStorage.Model.pdb
+D:\Workspace\WPF\FriendStorage\FriendStorage.Model\obj\Debug\net8.0\ref\FriendStorage.Model.dll

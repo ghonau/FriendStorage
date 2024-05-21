@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLuN0+AJDW6ODmiIrTSBncxWGMuP5e98iR0crH7eUTSjkyWKcXj9Z/uumKu9v3NCLU6UUiVt07PFZldYrXhFPg==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\WPF\\FriendStorage\\FriendStorage.UI\\FriendStorage.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.31\\microsoft.windows.sdk.net.ref.10.0.17763.31.nupkg.sha512"
+  ],
+  "logs": []
+}
